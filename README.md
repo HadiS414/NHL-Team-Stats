@@ -12,7 +12,9 @@
 
 ## Introduction
 
-This UI displays the statistics of all the teams in the 2021-2022 regular season of the NHL. It uses two public API endpoints to obtain the information.
+This UI displays the statistics of all the teams in the 2021-2022 regular season of the NHL. It uses two public API endpoints to obtain the information:
+- https://statsapi.web.nhl.com/api/v1/teams
+- https://statsapi.web.nhl.com/api/v1/teams/{id}/stats
 
 ## Dependencies
 
