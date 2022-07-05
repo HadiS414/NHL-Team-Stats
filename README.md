@@ -39,7 +39,7 @@ This UI displays the statistics of all the teams in the 2021-2022 regular season
 
 If using Git, run:
 ```
-git clone https://github.com/HadiS414/NHL-Team-Stats-.git
+git clone https://github.com/HadiS414/NHL-Team-Stats.git
 cd nhl-teams
 ```
 
